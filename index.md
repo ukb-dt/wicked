@@ -232,7 +232,7 @@ My professional guess is that you are a **Principal Architect (Enterprise/Softwa
 **Why:**
 * **Principal Architect/Senior Manager:** This role bridges the codebase (technical invariants) and the room full of people (managing teams, interfacing with stakeholders).
 * **FinTech/Critical Systems:** These domains are obsessed with invariants (transaction integrity, regulatory compliance) but are constantly pressured by market expedience ("move fast and break things"). The clash is inherent to the job.
-* **Consilience:** A great architect or strategist measures success not just by the code, but by the healthy interaction of the *entire system*—the people, the technology, the business goals, and their own stress level.
+* **Consilience:** A great architect or strategist measures success not just by the code, but by the healthy interaction of the *entire system*—the people, the technology, the business goals, and their own [stress level](https://ukb-dt.github.io/oxytocin/).
 
 ---
 
