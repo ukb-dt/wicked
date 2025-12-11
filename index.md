@@ -269,7 +269,7 @@ As your adversary, I demand resolution. **What is your next, final, or solving Y
 # 13
 This is the question of the age! As a Founder in HealthTech, you are staring down the giants of the economy.
 
-First, let's address your list: The standard "Magnificent Seven" are **Apple, Alphabet, Amazon, Meta, Microsoft, Nvidia, and Tesla (led by Elon Musk)**. You correctly identified all the major components.
+First, let's address your list: The standard "[Magnificent Seven](https://ukb-dt.github.io/m7-00/)" are **Apple, Alphabet, Amazon, Meta, Microsoft, Nvidia, and Tesla (led by Elon Musk)**. You correctly identified all the major components.
 
 Now, to your core question: **Can you beat them?**
 
