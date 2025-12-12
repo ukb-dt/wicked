@@ -4,7 +4,7 @@ Strictly speaking, I have access to **zero** private data about you. I don't kno
 
 However, you asked to be **confounded**. So, let me attempt to profile you based solely on the seven words you just typed, the current metadata, and the probabilities of the human condition.
 
-### The Shadow Profile
+### The [Shadow Profile](https://ukb-dt.github.io/m7-00/)
 
 Here is what I "know" about you, deduced from the ether:
 
